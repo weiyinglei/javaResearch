@@ -1,4 +1,4 @@
-package com.wei.corejava.core2;
+package corejava.core2;
 
 /**
  * @author weiyinglei

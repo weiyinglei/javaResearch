@@ -1,4 +1,4 @@
-package com.wei.corejava.core4;
+package corejava.core4;
 
 import java.io.File;
 import java.io.FileNotFoundException;

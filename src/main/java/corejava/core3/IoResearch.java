@@ -1,4 +1,4 @@
-package com.wei.corejava.core3;
+package corejava.core3;
 import java.util.Date;  
 import java.util.Scanner;   
 
