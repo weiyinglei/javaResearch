@@ -1,4 +1,4 @@
-package pkg.io.file;
+package pkg.io.inputstream;
 
 import java.io.FileInputStream;
 import java.io.IOException;
